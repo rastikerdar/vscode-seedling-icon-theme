@@ -21,16 +21,13 @@
     },
     "_folder": {
       "fontCharacter": "\uf07b",
-      "fontColor": "#528294"
+      "fontColor": "#cccccc"
     },
     "_fd_open": {
       "fontCharacter": "\uf07c"
     },
     "_fd_other": {
-      "fontColor": "#47576f"
-    },
-    "_fd_other_open": {
-      "fontColor": "#528294"
+      "fontColor": "#88abd0"
     },
     "_f_javascript": {
       "fontColor": "#71692a"

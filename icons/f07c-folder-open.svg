@@ -34,21 +34,35 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="776"
-     inkscape:window-height="480"
+     inkscape:window-width="1280"
+     inkscape:window-height="1000"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="0.75999286"
-     inkscape:cx="499.39088"
-     inkscape:cy="278.41904"
-     inkscape:window-x="152"
-     inkscape:window-y="131"
-     inkscape:window-maximized="0"
+     inkscape:zoom="2.8828222"
+     inkscape:cx="315.65131"
+     inkscape:cy="245.24938"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="285.84086,132.03126"
+       orientation="0,1"
+       id="guide27"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="212.33893,118.41979"
+       orientation="1,0"
+       id="guide29"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <path
-     d="m 524.77819,245.72083 -44.28451,75.91605 a 39.131722,39.131722 0 0 1 -33.80222,19.41514 H 202.12875 c -11.3261,0 -18.383,-12.28611 -12.67622,-22.0695 l 44.28451,-75.91604 a 39.133556,39.133556 0 0 1 33.80284,-19.41514 h 244.56271 c 11.3261,0 18.38299,12.28611 12.6756,22.06949 z M 267.53988,204.08457 h 200.55947 v -29.35016 c 0,-16.20986 -13.14031,-29.35017 -29.35017,-29.35017 h -97.83389 l -39.13355,-39.13356 h -97.83389 c -16.20986,0 -29.35017,13.14031 -29.35017,29.35017 v 170.01451 l 42.23795,-72.40809 c 10.47862,-17.96351 29.90782,-29.1227 50.70425,-29.1227 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="stroke-width:0.61146182" />
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.93405879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 381.05078,163.07406 221.18652,330.62171 h 159.86426 z m -31.33301,80.46211 v 53.68535 h -51.22441 z"
+     id="path89"
+     inkscape:connector-curvature="0" />
 </svg>
