@@ -17,215 +17,481 @@
     "_file": {
       "fontId": "fonticons",
       "fontCharacter": "\uf111",
-      "fontColor": "#454545"
+      "fontColor": "#4e4e4e"
+    },
+    "_file_light": {
+      "fontColor": "#bbbbbb"
     },
     "_folder": {
       "fontCharacter": "\uf07b",
-      "fontColor": "#cccccc"
+      "fontColor": "#afafaf"
+    },
+    "_folder_light": {
+      "fontColor": "#606060"
     },
     "_fd_open": {
       "fontCharacter": "\uf07c"
     },
     "_fd_other": {
-      "fontColor": "#88abd0"
+      "fontColor": "#6783a0"
+    },
+    "_fd_other_light": {
+      "fontColor": "#82a3c5"
     },
     "_f_javascript": {
-      "fontColor": "#71692a"
+      "fontCharacter": "\uff01",
+      "fontColor": "#948e50"
+    },
+    "_f_javascript_light": {
+      "fontColor": "#908222"
+    },
+    "_f_javascript-react": {
+      "fontCharacter": "\uff12",
+      "fontColor": "#948e50"
+    },
+    "_f_javascript-react_light": {
+      "fontColor": "#908222"
     },
     "_f_typescript": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff02",
+      "fontColor": "#5584c3"
+    },
+    "_f_typescript_light": {
+      "fontColor": "#5c8fd4"
+    },
+    "_f_typescript-react": {
+      "fontCharacter": "\uff11",
+      "fontColor": "#5584c3"
+    },
+    "_f_typescript-react_light": {
+      "fontColor": "#5c8fd4"
     },
     "_f_coffeescript": {
       "fontColor": "#506a98"
     },
-    "_f_react": {
-      "fontColor": "#71692a"
+    "_f_coffeescript_light": {
+      "fontColor": "#85b0ff"
     },
     "_f_python": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uf3e2",
+      "fontColor": "#3a7ab1"
+    },
+    "_f_python_light": {
+      "fontColor": "#49a4f3"
     },
     "_f_perl": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff14",
+      "fontColor": "#3986a7"
+    },
+    "_f_perl_light": {
+      "fontColor": "#4aafda"
     },
     "_f_ruby": {
-      "fontColor": "#843447"
+      "fontCharacter": "\uf3a5",
+      "fontColor": "#903c50"
+    },
+    "_f_ruby_light": {
+      "fontColor": "#d85b79"
     },
     "_f_php": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff08",
+      "fontColor": "#6f72a5"
+    },
+    "_f_php_light": {
+      "fontColor": "#8387c3"
     },
     "_f_rust": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff10",
+      "fontColor": "#5f7296"
+    },
+    "_f_rust_light": {
+      "fontColor": "#728cbb"
     },
     "_f_go": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff06",
+      "fontColor": "#5993bd"
+    },
+    "_f_go_light": {
+      "fontColor": "#5591ff"
     },
     "_f_c": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff03",
+      "fontColor": "#658ed4"
+    },
+    "_f_c_light": {
+      "fontColor": "#5f8ad4"
     },
     "_f_cpp": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff05",
+      "fontColor": "#658ed4"
+    },
+    "_f_cpp_light": {
+      "fontColor": "#5f8ad4"
     },
     "_f_c-h": {
-      "fontColor": "#744775"
+      "fontCharacter": "\uff04",
+      "fontColor": "#9d64a0"
+    },
+    "_f_c-h_light": {
+      "fontColor": "#d06cd2"
     },
     "_f_cpp-h": {
-      "fontColor": "#744775"
+      "fontCharacter": "\uff04",
+      "fontColor": "#9d64a0"
+    },
+    "_f_cpp-h_light": {
+      "fontColor": "#d06cd2"
     },
     "_f_rlang": {
       "fontColor": "#814f82"
     },
-    "_f_dart": {
+    "_f_rlang_light": {
       "fontColor": "#814f82"
+    },
+    "_f_dart": {
+      "fontCharacter": "\uff13",
+      "fontColor": "#3683b7"
+    },
+    "_f_dart_light": {
+      "fontColor": "#64a7d4"
     },
     "_f_haskell": {
-      "fontColor": "#814f82"
+      "fontColor": "#506a98"
     },
-    "_f_erlang": {
-      "fontColor": "#814f82"
-    },
-    "_f_elm": {
-      "fontColor": "#814f82"
+    "_f_haskell_light": {
+      "fontColor": "#85b0ff"
     },
     "_f_elixir": {
-      "fontColor": "#814f82"
+      "fontCharacter": "\uff15",
+      "fontColor": "#875f94"
+    },
+    "_f_elixir_light": {
+      "fontColor": "#bd76d4"
+    },
+    "_f_erlang": {
+      "fontColor": "#506a98"
+    },
+    "_f_erlang_light": {
+      "fontColor": "#6ea1ff"
+    },
+    "_f_elm": {
+      "fontColor": "#506a98"
+    },
+    "_f_elm_light": {
+      "fontColor": "#85b0ff"
+    },
+    "_f_java": {
+      "fontColor": "#506a98"
+    },
+    "_f_java_light": {
+      "fontColor": "#85b0ff"
+    },
+    "_f_kotlin": {
+      "fontColor": "#506a98"
+    },
+    "_f_kotlin_light": {
+      "fontColor": "#85b0ff"
+    },
+    "_f_lua": {
+      "fontColor": "#5858ab"
+    },
+    "_f_lua_light": {
+      "fontColor": "#8989ff"
+    },
+    "_f_tcl": {
+      "fontColor": "#776b50"
+    },
+    "_f_tcl_light": {
+      "fontColor": "#c19125"
     },
     "_f_xml": {
-      "fontColor": "#368871"
+      "fontCharacter": "\uf121",
+      "fontColor": "#3da084"
+    },
+    "_f_xml_light": {
+      "fontColor": "#339a7d"
     },
     "_f_vue": {
-      "fontColor": "#34796c"
+      "fontCharacter": "\uf41f",
+      "fontColor": "#3cad7b"
+    },
+    "_f_vue_light": {
+      "fontColor": "#359a6e"
     },
     "_f_html": {
-      "fontColor": "#347940"
+      "fontCharacter": "\uff07",
+      "fontColor": "#4caf5e"
+    },
+    "_f_html_light": {
+      "fontColor": "#248c35"
     },
     "_f_haml": {
       "fontColor": "#347940"
     },
+    "_f_haml_light": {
+      "fontColor": "#61d274"
+    },
     "_f_css": {
-      "fontColor": "#8d52a5"
+      "fontCharacter": "\uf292",
+      "fontColor": "#8467b1"
+    },
+    "_f_css_light": {
+      "fontColor": "#ab75ff"
     },
     "_f_sass": {
-      "fontColor": "#8d52a5"
+      "fontCharacter": "\uf292",
+      "fontColor": "#945146"
+    },
+    "_f_sass_light": {
+      "fontColor": "#d88476"
     },
     "_f_less": {
-      "fontColor": "#8d52a5"
+      "fontCharacter": "\uf292",
+      "fontColor": "#8467b1"
+    },
+    "_f_less_light": {
+      "fontColor": "#ab75ff"
     },
     "_f_database": {
       "fontCharacter": "\uf1c0",
       "fontColor": "#7b3b47"
     },
+    "_f_database_light": {
+      "fontColor": "#dc7183"
+    },
     "_f_json": {
-      "fontCharacter": "\uf141",
-      "fontColor": "#8E771C"
+      "fontCharacter": "\uff09",
+      "fontColor": "#9e953a"
+    },
+    "_f_json_light": {
+      "fontColor": "#9a7d09"
     },
     "_f_lock": {
       "fontCharacter": "\uf023",
       "fontColor": "#505050"
     },
+    "_f_lock_light": {
+      "fontColor": "#a9a9a9"
+    },
     "_f_eslint": {
       "fontCharacter": "\uf560",
-      "fontColor": "#6c5e98"
+      "fontColor": "#7767a9"
+    },
+    "_f_eslint_light": {
+      "fontColor": "#a083ff"
     },
     "_f_babel": {
       "fontCharacter": "\uf141",
       "fontColor": "#8E771C"
     },
+    "_f_babel_light": {
+      "fontColor": "#a58a20"
+    },
     "_f_git": {
       "fontCharacter": "\uf126",
       "fontColor": "#707070"
+    },
+    "_f_git_light": {
+      "fontColor": "#9a9a9a"
     },
     "_f_gitlab": {
       "fontCharacter": "\uf126"
     },
     "_f_settings": {
-      "fontCharacter": "\uf141",
-      "fontColor": "#9e4974"
+      "fontCharacter": "\uf0ad",
+      "fontColor": "#883b61"
+    },
+    "_f_settings_light": {
+      "fontColor": "#d4679d"
     },
     "_f_apache": {
       "fontCharacter": "\uf141"
     },
     "_f_yaml": {
-      "fontCharacter": "\uf141",
-      "fontColor": "#479692"
+      "fontCharacter": "\uf12a",
+      "fontColor": "#3e8480"
+    },
+    "_f_yaml_light": {
+      "fontColor": "#47b1ab"
     },
     "_f_shell": {
-      "fontColor": "#843447"
+      "fontCharacter": "\uf120",
+      "fontColor": "#bd4562"
+    },
+    "_f_shell_light": {
+      "fontColor": "#b72d4f"
     },
     "_f_powershell": {
-      "fontColor": "#843447"
+      "fontCharacter": "\uf120",
+      "fontColor": "#bd4562"
+    },
+    "_f_powershell_light": {
+      "fontColor": "#b72d4f"
     },
     "_f_binary": {
       "fontCharacter": "\uf013",
       "fontColor": "#505050"
     },
+    "_f_binary_light": {
+      "fontColor": "#b7b7b7"
+    },
     "_f_exe": {
       "fontCharacter": "\uf013",
       "fontColor": "#606060"
     },
+    "_f_exe_light": {
+      "fontColor": "#b3b3b3"
+    },
     "_f_markdown": {
-      "fontCharacter": "\uf02d",
-      "fontColor": "#73694d"
+      "fontCharacter": "\uf059",
+      "fontColor": "#277b76"
+    },
+    "_f_markdown_light": {
+      "fontColor": "#3fb5af"
     },
     "_f_rst": {
-      "fontCharacter": "\uf02d",
-      "fontColor": "#516680"
+      "fontCharacter": "\uf059",
+      "fontColor": "#2f736f"
+    },
+    "_f_rst_light": {
+      "fontColor": "#3fb5af"
     },
     "_f_license": {
       "fontCharacter": "\uf559",
       "fontColor": "#656565"
     },
+    "_f_license_light": {
+      "fontColor": "#929292"
+    },
     "_f_changelog": {
       "fontCharacter": "\uf1da",
       "fontColor": "#777777"
+    },
+    "_f_changelog_light": {
+      "fontColor": "#929292"
     },
     "_f_pdf": {
       "fontCharacter": "\uf1c1",
       "fontColor": "#777777"
     },
+    "_f_pdf_light": {
+      "fontColor": "#adadad"
+    },
     "_f_excel": {
       "fontCharacter": "\uf1c3",
       "fontColor": "#777777"
     },
+    "_f_excel_light": {
+      "fontColor": "#adadad"
+    },
     "_f_log": {
       "fontCharacter": "\uf15c",
-      "fontColor": "#6d6450"
+      "fontColor": "#5f594b"
+    },
+    "_f_log_light": {
+      "fontColor": "#bdb39c"
     },
     "_f_key": {
       "fontCharacter": "\uf084",
-      "fontColor": "#8e4d4d"
+      "fontColor": "#824747"
+    },
+    "_f_key_light": {
+      "fontColor": "#da9494"
     },
     "_f_zip": {
       "fontCharacter": "\uf466",
-      "fontColor": "#634a2c"
+      "fontColor": "#755732"
+    },
+    "_f_zip_light": {
+      "fontColor": "#d0a470"
     },
     "_f_audio": {
       "fontCharacter": "\uf001",
       "fontColor": "#588053"
     },
+    "_f_audio_light": {
+      "fontColor": "#78ad72"
+    },
     "_f_image": {
-      "#fontCharacter": "\uf00d",
       "fontCharacter": "\uf03e",
-      "fontColor": "#9a4b67"
+      "fontColor": "#9e4565"
+    },
+    "_f_image_light": {
+      "fontColor": "#bd6786"
     },
     "_f_svg": {
       "fontCharacter": "\uf03e",
-      "fontColor": "#9a4b67"
+      "fontColor": "#9e4565"
+    },
+    "_f_svg_light": {
+      "fontColor": "#bd6786"
     },
     "_f_video": {
       "fontCharacter": "\uf03d",
       "fontColor": "#844159"
     },
+    "_f_video_light": {
+      "fontColor": "#ea82a8"
+    },
     "_f_server": {
       "fontCharacter": "\uf0ac",
       "fontColor": "#50708c"
+    },
+    "_f_server_light": {
+      "fontColor": "#7db2e0"
     },
     "_f_font": {
       "fontCharacter": "\uf031",
       "fontColor": "#6f8794"
     },
+    "_f_font_light": {
+      "fontColor": "#689ab5"
+    },
+    "_f_pip_requirements": {
+      "fontCharacter": "\uf141",
+      "fontColor": "#5e849a"
+    },
+    "_f_pip_requirements_light": {
+      "fontColor": "#6d9eb9"
+    },
+    "_f_gradle": {
+      "fontCharacter": "\uf0ad",
+      "fontColor": "#883b61"
+    },
+    "_f_gradle_light": {
+      "fontColor": "#d4679d"
+    },
+    "_f_package_json": {
+      "fontColor": "#a55527"
+    },
+    "_f_package_json_light": {
+      "fontColor": "#ca5613"
+    },
+    "_f_docker": {
+      "fontCharacter": "\uf395",
+      "fontColor": "#518292"
+    },
+    "_f_docker_light": {
+      "fontColor": "#6fb8d0"
+    },
+    "_f_opengl": {
+      "fontColor": "#8c5731"
+    },
+    "_f_opengl_light": {
+      "fontColor": "#e48d4e"
+    },
+    "_f_objective-c": {
+      "fontColor": "#82840e"
+    },
+    "_f_objective-c_light": {
+      "fontColor": "#6fb8d0"
+    },
     "_f_seedling": {
       "fontCharacter": "\uf4d8",
       "fontColor": "#42773c"
+    },
+    "_f_seedling_light": {
+      "fontColor": "#60b557"
     }
   },
   "file": "_file",
@@ -361,7 +627,7 @@
     "jade": "_f_jade",
     "pug": "_f_pug",
     "java": "_f_java",
-    "jar": "_f_java",
+    "jar": "_f_zip",
     "js": "_f_javascript",
     "es6": "_f_javascript",
     "json": "_f_json",
@@ -436,8 +702,8 @@
     "psd": "_f_photoshop",
     "py": "_f_python",
     "pyw": "_f_python",
-    "jsx": "_f_javascript",
-    "tsx": "_f_typescript",
+    "jsx": "_f_javascript-react",
+    "tsx": "_f_typescript-react",
     "r": "_f_rlang",
     "R": "_f_rlang",
     "RData": "_f_rlang",
@@ -465,6 +731,8 @@
     "mk": "_f_settings",
     "config": "_f_settings",
     "conf": "_f_settings",
+    "cfg": "_f_settings",
+    "properties": "_f_settings",
     "editorconfig": "_f_settings",
     "bat": "_f_shell",
     "sh": "_f_shell",
@@ -497,10 +765,11 @@
     "ts": "_f_typescript",
     "vue": "_f_vue",
     "vscodeignore": "_f_visualstudiocode",
-    "xml": "_f_source",
-    "axml": "_f_source",
-    "xaml": "_f_source",
-    "pex": "_f_source",
+    "iml": "_f_xml",
+    "xml": "_f_xml",
+    "axml": "_f_xml",
+    "xaml": "_f_xml",
+    "pex": "_f_xml",
     "yml": "_f_yaml",
     "yaml": "_f_yaml",
     "yarnclean": "_f_yarn",
@@ -591,6 +860,7 @@
     "ipynb": "_f_jupyter",
     "log": "_f_log",
     "lock": "_f_lock",
+    "toml": "_f_settings",
     "seedling": "_f_seedling"
   },
   "fileNames": {
@@ -623,9 +893,11 @@
     "license.md": "_f_license",
     "licence.md": "_f_license",
     "license.txt": "_f_license",
+    "copyright": "_f_license",
+    "copyright.md": "_f_license",
     "copying": "_f_license",
     "mocha.opts": "_f_mocha",
-    "package.json": "_f_npm",
+    "package.json": "_f_package_json",
     "package-lock.json": "_f_lock",
     "npm-debug.log": "_f_npm",
     "paket.references": "_f_paket",
@@ -669,8 +941,12 @@
     "install": "_f_markdown",
     "manifesto": "_f_markdown",
     "readme": "_f_markdown",
+    "history": "_f_changelog",
+    "history.md": "_f_changelog",
     "changelog": "_f_changelog",
-    "changelog.md": "_f_changelog"
+    "changelog.md": "_f_changelog",
+    "changelog.json": "_f_changelog",
+    "requirements.txt": "_f_pip_requirements"
   },
   "languageIds": {
     "git": "_f_git",
@@ -717,6 +993,511 @@
     "pascal": "_f_pascal",
     "foxpro": "_f_foxpro",
     "harbour": "_f_harbour",
-    "visualbasic": "_f_visualbasic"
+    "visualbasic": "_f_visualbasic",
+    "objective-c": "_f_objective-c"
+  },
+  "light": {
+    "file": "_file_light",
+    "folder": "_folder_light",
+    "folderExpanded": "_fd_open_light",
+    "rootFolder": "_fd_root_light",
+    "rootFolderExpanded": "_fd_root_open_light",
+    "folderNames": {
+      ".vscode": "_fd_other_light",
+      ".vscode-test": "_fd_other_light",
+      "bower_components": "_fd_other_light",
+      "node_modules": "_fd_other_light",
+      ".git": "_fd_other_light",
+      ".github": "_fd_other_light",
+      "__mocks__": "_fd_other_light",
+      "__tests__": "_fd_other_light",
+      "__snapshots__": "_fd_other_light",
+      "dist": "_fd_other_light",
+      "out": "_fd_other_light",
+      "export": "_fd_other_light",
+      "build": "_fd_other_light",
+      "release": "_fd_other_light",
+      "target": "_fd_other_light"
+    },
+    "folderNamesExpanded": {
+      ".vscode": "_fd_other_open_light",
+      ".vscode-test": "_fd_other_open_light",
+      "bower_components": "_fd_other_open_light",
+      "node_modules": "_fd_other_open_light",
+      ".git": "_fd_other_open_light",
+      ".github": "_fd_other_open_light",
+      "__mocks__": "_fd_other_open_light",
+      "__tests__": "_fd_other_open_light",
+      "__snapshots__": "_fd_other_open_light",
+      "dist": "_fd_other_open_light",
+      "out": "_fd_other_open_light",
+      "export": "_fd_other_open_light",
+      "build": "_fd_other_open_light",
+      "release": "_fd_other_open_light",
+      "target": "_fd_other_open_light"
+    },
+    "fileExtensions": {
+      "ai": "_f_illustrator_light",
+      "as": "_f_actionscript_light",
+      "au3": "_f_autoit_light",
+      "htaccess": "_f_apache_light",
+      "htpasswd": "_f_apache_light",
+      "bin": "_f_binary_light",
+      "o": "_f_binary_light",
+      "lib": "_f_binary_light",
+      "dll": "_f_binary_light",
+      "obj": "_f_binary_light",
+      "a": "_f_binary_light",
+      "so": "_f_binary_light",
+      "pyc": "_f_binary_light",
+      "exe": "_f_exe_light",
+      "bowerrc": "_f_bower_light",
+      "c": "_f_c_light",
+      "h": "_f_c-h_light",
+      "cake": "_f_cake_light",
+      "kit": "_f_codekit_light",
+      "coffee": "_f_coffeescript_light",
+      "cfc": "_f_cfm_light",
+      "cfm": "_f_cfm_light",
+      "cfml": "_f_cfm_light",
+      "clj": "_f_clojure_light",
+      "cljs": "_f_clojure_light",
+      "cljc": "_f_clojure_light",
+      "edn": "_f_clojure_light",
+      "ctp": "_f_cakephp_light",
+      "lucee": "_f_coldfusion_light",
+      "cmake": "_f_cmake_light",
+      "cmakelists.txt": "_f_cmake_light",
+      "cc": "_f_cpp_light",
+      "cpp": "_f_cpp_light",
+      "hpp": "_f_cpp-h_light",
+      "cxx": "_f_cpp_light",
+      "cs": "_f_csharp_light",
+      "cshtml": "_f_razor_light",
+      "csproj": "_f_visualstudio_light",
+      "css": "_f_css_light",
+      "dockerignore": "_f_docker_light",
+      "dockerfile": "_f_docker_light",
+      "dockerfile.environment": "_f_docker_light",
+      "environment.dockerfile": "_f_docker_light",
+      "dust": "_f_dust_light",
+      "ejs": "_f_ejs_light",
+      "eslintrc": "_f_eslint_light",
+      "eslintignore": "_f_eslint_light",
+      "ex": "_f_elixir_light",
+      "exs": "_f_elixir_light",
+      "eex": "_f_elixir_light",
+      "elm": "_f_elm_light",
+      "erl": "_f_erlang_light",
+      "hrl": "_f_erlang_light",
+      "emakefile": "_f_erlang_light",
+      "emakerfile": "_f_erlang_light",
+      "woff": "_f_font_light",
+      "woff2": "_f_font_light",
+      "ttf": "_f_font_light",
+      "otf": "_f_font_light",
+      "eot": "_f_font_light",
+      "pfa": "_f_font_light",
+      "pfb": "_f_font_light",
+      "feature": "_f_gherkin_light",
+      "fs": "_f_fsharp_light",
+      "fsproj": "_f_visualstudio_light",
+      "fsx": "_f_fsharp_light",
+      "fsi": "_f_fsharp_light",
+      "gitattributes": "_f_git_light",
+      "gitignore": "_f_git_light",
+      "gitmodules": "_f_git_light",
+      "gitkeep": "_f_git_light",
+      "go": "_f_go_light",
+      "gradle": "_f_gradle_light",
+      "haml": "_f_haml_light",
+      "has": "_f_haskell_light",
+      "hs": "_f_haskell_light",
+      "lhs": "_f_haskell_light",
+      "lit": "_f_haskell_light",
+      "gf": "_f_haskell_light",
+      "hbs": "_f_handlebars_light",
+      "hx": "_f_haxe_light",
+      "hxml": "_f_haxe_light",
+      "htm": "_f_html_light",
+      "html": "_f_html_light",
+      "jpeg": "_f_image_light",
+      "jpg": "_f_image_light",
+      "gif": "_f_image_light",
+      "png": "_f_image_light",
+      "bmp": "_f_image_light",
+      "ico": "_f_image_light",
+      "jade": "_f_jade_light",
+      "pug": "_f_pug_light",
+      "java": "_f_java_light",
+      "jar": "_f_zip_light",
+      "js": "_f_javascript_light",
+      "es6": "_f_javascript_light",
+      "json": "_f_json_light",
+      "jl": "_f_julia_light",
+      "key": "_f_key_light",
+      "pub": "_f_key_light",
+      "pem": "_f_key_light",
+      "asc": "_f_key_light",
+      "ppk": "_f_key_light",
+      "less": "_f_less_light",
+      "liquid": "_f_liquid_light",
+      "md": "_f_markdown_light",
+      "markdown": "_f_markdown_light",
+      "mjml": "_f_mjml_light",
+      "fig": "_f_matlab_light",
+      "mat": "_f_matlab_light",
+      "mex": "_f_matlab_light",
+      "mexn": "_f_matlab_light",
+      "mexrs6": "_f_matlab_light",
+      "mn": "_f_matlab_light",
+      "mum": "_f_matlab_light",
+      "mx": "_f_matlab_light",
+      "mx3": "_f_matlab_light",
+      "rwd": "_f_matlab_light",
+      "slx": "_f_matlab_light",
+      "slddc": "_f_matlab_light",
+      "smv": "_f_matlab_light",
+      "tikz": "_f_matlab_light",
+      "xvc": "_f_matlab_light",
+      "mst": "_f_mustache_light",
+      "nconf": "_f_nginx_light",
+      "webmanifest": "_f_node_light",
+      "nuspec": "_f_nuget_light",
+      "nupkg": "_f_nuget_light",
+      "nunjucks": "_f_nunjucks_light",
+      "nunjs": "_f_nunjucks_light",
+      "nj": "_f_nunjucks_light",
+      "njhtml": "_f_nunjucks_light",
+      "njk": "_f_nunjucks_light",
+      "npmignore": "_f_npm_light",
+      "ml": "_f_ocaml_light",
+      "mll": "_f_ocaml_light",
+      "mli": "_f_ocaml_light",
+      "mly": "_f_ocaml_light",
+      "ocamlmakefile": "_f_ocaml_light",
+      "merlin": "_f_ocaml_light",
+      "pdf": "_f_pdf_light",
+      "postcss": "_f_postcss_light",
+      "postcssrc": "_f_postcss_light",
+      "pcss": "_f_postcss_light",
+      "perl": "_f_perl_light",
+      "pl": "_f_perl_light",
+      "pm": "_f_perl_light",
+      "php": "_f_php_light",
+      "php1": "_f_php_light",
+      "php2": "_f_php_light",
+      "php3": "_f_php_light",
+      "php4": "_f_php_light",
+      "php5": "_f_php_light",
+      "php6": "_f_php_light",
+      "phps": "_f_php_light",
+      "phpsa": "_f_php_light",
+      "phpt": "_f_php_light",
+      "phtml": "_f_php_light",
+      "phar": "_f_php_light",
+      "ps1": "_f_powershell_light",
+      "psc1": "_f_powershell_light",
+      "psm1": "_f_powershell_light",
+      "ps1xml": "_f_powershell_light",
+      "psd1": "_f_powershell_light",
+      "pssc": "_f_powershell_light",
+      "psd": "_f_photoshop_light",
+      "py": "_f_python_light",
+      "pyw": "_f_python_light",
+      "jsx": "_f_javascript-react_light",
+      "tsx": "_f_typescript-react_light",
+      "r": "_f_rlang_light",
+      "R": "_f_rlang_light",
+      "RData": "_f_rlang_light",
+      "rda": "_f_rlang_light",
+      "rds": "_f_rlang_light",
+      "rprofile": "_f_rlang_light",
+      "Rprofile": "_f_rlang_light",
+      "rb": "_f_ruby_light",
+      "erb": "_f_ruby_light",
+      "gemfile": "_f_ruby_light",
+      "gemspec": "_f_ruby_light",
+      "rs": "_f_rust_light",
+      "scala": "_f_scala_light",
+      "sass": "_f_sass_light",
+      "scss": "_f_sass_light",
+      "sss": "_f_postcss_light",
+      "sln": "_f_visualstudio_light",
+      "suo": "_f_visualstudio_light",
+      "slim": "_f_slim_light",
+      "env": "_f_settings_light",
+      "ini": "_f_settings_light",
+      "makefile": "_f_settings_light",
+      "rake": "_f_ruby_light",
+      "rakefile": "_f_ruby_light",
+      "mk": "_f_settings_light",
+      "config": "_f_settings_light",
+      "conf": "_f_settings_light",
+      "cfg": "_f_settings_light",
+      "properties": "_f_settings_light",
+      "editorconfig": "_f_settings_light",
+      "bat": "_f_shell_light",
+      "sh": "_f_shell_light",
+      "cmd": "_f_shell_light",
+      "bash": "_f_shell_light",
+      "zsh": "_f_shell_light",
+      "fish": "_f_shell_light",
+      "sublime-project": "_f_sublime_light",
+      "sublime-workspace": "_f_sublime_light",
+      "sqlite": "_f_database_light",
+      "sql": "_f_database_light",
+      "db3": "_f_database_light",
+      "styl": "_f_stylus_light",
+      "stylus": "_f_stylus_light",
+      "svg": "_f_svg_light",
+      "swift": "_f_swift_light",
+      "test.js": "_f_tests_light",
+      "test.ts": "_f_tests_light",
+      "test.tsx": "_f_tests_light",
+      "spec.js": "_f_tests_light",
+      "spec.ts": "_f_tests_light",
+      "spec.tsx": "_f_tests_light",
+      "tcl": "_f_tcl_light",
+      "texi": "_f_tex_light",
+      "tex": "_f_tex_light",
+      "bib": "_f_tex_light",
+      "textile": "_f_textile_light",
+      "todo": "_f_todo_light",
+      "twig": "_f_twig_light",
+      "ts": "_f_typescript_light",
+      "vue": "_f_vue_light",
+      "vscodeignore": "_f_visualstudiocode_light",
+      "iml": "_f_xml_light",
+      "xml": "_f_xml_light",
+      "axml": "_f_xml_light",
+      "xaml": "_f_xml_light",
+      "pex": "_f_xml_light",
+      "yml": "_f_yaml_light",
+      "yaml": "_f_yaml_light",
+      "yarnclean": "_f_yarn_light",
+      "zip": "_f_zip_light",
+      "rar": "_f_zip_light",
+      "7z": "_f_zip_light",
+      "tar": "_f_zip_light",
+      "gz": "_f_zip_light",
+      "bzip2": "_f_zip_light",
+      "xz": "_f_zip_light",
+      "bz2": "_f_zip_light",
+      "blade.php": "_f_blade_light",
+      "nsi": "_f_nsis_light",
+      "nsh": "_f_nsis_light",
+      "volt": "_f_phalcon_light",
+      "zep": "_f_zephir_light",
+      "mp3": "_f_audio_light",
+      "wav": "_f_audio_light",
+      "flac": "_f_audio_light",
+      "m4a": "_f_audio_light",
+      "aiff": "_f_audio_light",
+      "wma": "_f_audio_light",
+      "mov": "_f_video_light",
+      "webm": "_f_video_light",
+      "mp4": "_f_video_light",
+      "mpg": "_f_video_light",
+      "mpeg": "_f_video_light",
+      "mkv": "_f_video_light",
+      "flv": "_f_video_light",
+      "vob": "_f_video_light",
+      "ogv": "_f_video_light",
+      "ogg": "_f_video_light",
+      "avi": "_f_video_light",
+      "m4v": "_f_video_light",
+      "qt": "_f_video_light",
+      "mp2": "_f_video_light",
+      "ppt": "_f_powerpoint_light",
+      "pptx": "_f_powerpoint_light",
+      "pptm": "_f_powerpoint_light",
+      "pot": "_f_powerpoint_light",
+      "potx": "_f_powerpoint_light",
+      "pps": "_f_powerpoint_light",
+      "ppsm": "_f_powerpoint_light",
+      "doc": "_f_word_light",
+      "docx": "_f_word_light",
+      "rtf": "_f_word_light",
+      "xls": "_f_excel_light",
+      "xlsx": "_f_excel_light",
+      "csv": "_f_excel_light",
+      "tsv": "_f_excel_light",
+      "cer": "_f_certificate_light",
+      "babelrc": "_f_babel_light",
+      "gitlab-ci.yaml": "_f_gitlab_light",
+      "gitlab-ci.yml": "_f_gitlab_light",
+      "ino": "_f_arduino_light",
+      "glsl": "_f_opengl_light",
+      "vs": "_f_opengl_light",
+      "frag": "_f_opengl_light",
+      "vert": "_f_opengl_light",
+      "dart": "_f_dart_light",
+      "pp": "_f_puppet_light",
+      "rproj": "_f_rstudio_light",
+      "sol": "_f_solidity_light",
+      "lua": "_f_lua_light",
+      "http": "_f_server_light",
+      "json5": "_f_json5_light",
+      "gql": "_f_graphql_light",
+      "graphql": "_f_graphql_light",
+      "prettierrc": "_f_prettier_light",
+      "prettierignore": "_f_prettier_light",
+      "m": "_f_matlab-alt_light",
+      "cu": "_f_cuda_light",
+      "kt": "_f_kotlin_light",
+      "kts": "_f_kotlin_light",
+      "fxp": "_f_foxpro_light",
+      "pas": "_f_pascal_light",
+      "dpr": "_f_pascalproject_light",
+      "lpr": "_f_pascalproject_light",
+      "hbp": "_f_harbour_light",
+      "hbc": "_f_harbour_light",
+      "prg": "_f_exe_light",
+      "tf": "_f_terraform_light",
+      "tfvars": "_f_terraform_light",
+      "vb": "_f_visualbasic_light",
+      "rst": "_f_rst_light",
+      "re": "_f_reason_light",
+      "rei": "_f_reason_light",
+      "ipynb": "_f_jupyter_light",
+      "log": "_f_log_light",
+      "lock": "_f_lock_light",
+      "toml": "_f_settings_light",
+      "seedling": "_f_seedling_light"
+    },
+    "fileNames": {
+      "androidmanifest.xml": "_f_android_light",
+      "bower.json": "_f_bower_light",
+      "brunch-config.js": "_f_brunch_light",
+      "brunch-config.ts": "_f_brunch_light",
+      "brunch-config.coffee": "_f_brunch_light",
+      "cmakelists.txt": "_f_cmake_light",
+      "makefile": "_f_settings_light",
+      "rakefile": "_f_ruby_light",
+      "docker-compose.yml": "_f_docker_light",
+      "dockerfile": "_f_docker_light",
+      "dockerfile.environment": "_f_docker_light",
+      "environment.dockerfile": "_f_docker_light",
+      "nginx.dockerfile": "_f_docker_light",
+      "gruntfile.js": "_f_grunt_light",
+      "gruntfile.ts": "_f_grunt_light",
+      "gruntfile.coffee": "_f_grunt_light",
+      "gulpfile.js": "_f_gulp_light",
+      "gulpfile.ts": "_f_gulp_light",
+      "gulpfile.coffee": "_f_gulp_light",
+      "gulpfile.babel.js": "_f_gulp_light",
+      "jenkinsfile": "_f_jenkinsfile_light",
+      "karma.conf.js": "_f_karma_light",
+      "karma.conf.ts": "_f_karma_light",
+      "karma.conf.coffee": "_f_karma_light",
+      "license": "_f_license_light",
+      "licence": "_f_license_light",
+      "license.md": "_f_license_light",
+      "licence.md": "_f_license_light",
+      "license.txt": "_f_license_light",
+      "copyright": "_f_license_light",
+      "copyright.md": "_f_license_light",
+      "copying": "_f_license_light",
+      "mocha.opts": "_f_mocha_light",
+      "package.json": "_f_package_json_light",
+      "package-lock.json": "_f_lock_light",
+      "npm-debug.log": "_f_npm_light",
+      "paket.references": "_f_paket_light",
+      "paket.dependencies": "_f_paket_light",
+      "paket.lock": "_f_lock_light",
+      "paket.local": "_f_paket_light",
+      "gemfile": "_f_ruby_light",
+      "gemfile.lock": "_f_lock_light",
+      "vscodeignore.json": "_f_visualstudiocode_light",
+      "extensions.json": "_f_visualstudiocode_light",
+      "launch.json": "_f_visualstudiocode_light",
+      "settings.json": "_f_visualstudiocode_light",
+      "tasks.json": "_f_visualstudiocode_light",
+      "jsconfig.json": "_f_json_light",
+      "tsconfig.json": "_f_json_light",
+      "yarn.lock": "_f_lock_light",
+      "yarn-error.log": "_f_yarn_light",
+      ".babelrc": "_f_babel_light",
+      ".eslintrc.js": "_f_eslint_light",
+      ".eslintrc.yml": "_f_eslint_light",
+      ".eslintrc.yaml": "_f_eslint_light",
+      ".eslintrc.json": "_f_eslint_light",
+      ".gitlab-ci.yaml": "_f_gitlab_light",
+      ".gitlab-ci.yml": "_f_gitlab_light",
+      "rollup.config.js": "_f_rollup_light",
+      "rollup.config.ts": "_f_rollup_light",
+      "rollup.config.coffee": "_f_rollup_light",
+      "prettierrc.js": "_f_prettier_light",
+      "prettierrc.json": "_f_prettier_light",
+      "prettierrc.yml": "_f_prettier_light",
+      "prettierrc.yaml": "_f_prettier_light",
+      "prettier.config.js": "_f_prettier_light",
+      "prettier.config.ts": "_f_prettier_light",
+      "prettier.config.coffee": "_f_prettier_light",
+      "tslint.js": "_f_tslint_light",
+      "tslint.ts": "_f_tslint_light",
+      "tslint.json": "_f_tslint_light",
+      "bsconfig.json": "_f_bucklescript_light",
+      "configure": "_f_shell_light",
+      "contributing": "_f_markdown_light",
+      "install": "_f_markdown_light",
+      "manifesto": "_f_markdown_light",
+      "readme": "_f_markdown_light",
+      "history": "_f_changelog_light",
+      "history.md": "_f_changelog_light",
+      "changelog": "_f_changelog_light",
+      "changelog.md": "_f_changelog_light",
+      "changelog.json": "_f_changelog_light",
+      "requirements.txt": "_f_pip_requirements_light"
+    },
+    "languageIds": {
+      "git": "_f_git_light",
+      "c": "_f_c_light",
+      "csharp": "_f_csharp_light",
+      "fsharp": "_f_fsharp_light",
+      "yaml": "_f_yaml_light",
+      "xml": "_f_xml_light",
+      "matlab": "_f_matlab_light",
+      "java": "_f_java_light",
+      "razor": "_f_razor_light",
+      "python": "_f_python_light",
+      "javascript": "_f_javascript_light",
+      "typescript": "_f_typescript_light",
+      "scala": "_f_scala_light",
+      "handlebars": "_f_handlebars_light",
+      "perl": "_f_perl_light",
+      "perl6": "_f_perl_light",
+      "haxe": "_f_haxe_light",
+      "hxml": "_f_haxe_light",
+      "puppet": "_f_puppet_light",
+      "elixir": "_f_elixir_light",
+      "erlang": "_f_erlang_light",
+      "twig": "_f_twig_light",
+      "elm": "_f_elm_light",
+      "nunjucks": "_f_nunjucks_light",
+      "pug": "_f_pug_light",
+      "stylus": "_f_stylus_light",
+      "sass": "_f_sass_light",
+      "less": "_f_less_light",
+      "css": "_f_css_light",
+      "ng-template": "_f_angular_light",
+      "autoit": "_f_autoit_light",
+      "haml": "_f_haml_light",
+      "smarty": "_f_smarty_light",
+      "docker": "_f_docker_light",
+      "dockerfile": "_f_docker_light",
+      "markdown": "_f_markdown_light",
+      "php": "_f_php_light",
+      "html": "_f_html_light",
+      "json": "_f_json_light",
+      "dart": "_f_dart_light",
+      "cuda": "_f_cuda_light",
+      "pascal": "_f_pascal_light",
+      "foxpro": "_f_foxpro_light",
+      "harbour": "_f_harbour_light",
+      "visualbasic": "_f_visualbasic_light",
+      "objective-c": "_f_objective-c_light"
+    }
   }
 }
