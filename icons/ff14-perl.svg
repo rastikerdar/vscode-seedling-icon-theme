@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 576 512"
+   viewBox="0 0 448 512"
    version="1.1"
    id="svg4"
-   sodipodi:docname="f07c-folder-open.svg"
+   sodipodi:docname="ff14-perl.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata10">
@@ -20,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,32 +39,16 @@
      inkscape:window-height="970"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="2.4268055"
-     inkscape:cx="285.75346"
-     inkscape:cy="280.07517"
+     inkscape:zoom="1.0201373"
+     inkscape:cx="235.99449"
+     inkscape:cy="114.84363"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     inkscape:snap-global="true"
-     inkscape:snap-bbox="true"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="285.84086,132.03126"
-       orientation="0,1"
-       id="guide27"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="212.33893,118.41979"
-       orientation="1,0"
-       id="guide29"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg4" />
   <path
-     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.76871294px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 378.54165,227.8102 -150.52549,-0.0216 c -10.61074,0 -12.2569,10.22936 -8.52469,15.63212 l 83.86936,112.71695 83.85929,-112.70341 c 4.72453,-6.7845 -0.91222,-15.62403 -8.67847,-15.62403 z"
-     id="path89-3"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.23854065px;line-height:136.00000143%;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.39303803px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 194.0293,182.18036 v 199.38409 h 34.54662 v -75.81442 h 11.09524 c 26.47661,0 38.57948,-2.15827 48.91798,-8.90329 15.1295,-9.98264 24.45898,-30.21756 24.45898,-53.15062 0,-22.93308 -9.07704,-41.8192 -25.21517,-52.34142 -10.59064,-6.74502 -22.94748,-9.17434 -47.65898,-9.17434 z m 141.34677,0 v 199.38409 h 91.53315 V 346.2204 H 369.92269 V 182.18036 Z m -106.80015,35.34406 h 11.59805 c 26.47661,0 38.07612,5.66736 38.07612,26.71182 0,17.26726 -8.57303,26.16973 -39.58849,26.16973 h -10.08568 z"
+     id="flowRoot112"
+     inkscape:connector-curvature="0" />
 </svg>

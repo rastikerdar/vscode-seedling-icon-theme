@@ -10,8 +10,8 @@
    viewBox="0 0 448 512"
    version="1.1"
    id="svg4"
-   sodipodi:docname="f0c8-square.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   sodipodi:docname="ff04-c-h-file.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -20,6 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,20 +35,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="745"
-     inkscape:window-height="480"
+     inkscape:window-width="1280"
+     inkscape:window-height="970"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="1.0389867"
-     inkscape:cx="232.80578"
-     inkscape:cy="247.19422"
+     inkscape:zoom="1.0201373"
+     inkscape:cx="176.27529"
+     inkscape:cy="103.52399"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     d="M 326.9053,165.55185 H 216.78447 c -8.29035,0 -15.01647,6.72613 -15.01647,15.01647 v 110.12083 c 0,8.29035 6.72612,15.01647 15.01647,15.01647 H 326.9053 c 8.29033,0 15.01647,-6.72612 15.01647,-15.01647 V 180.56832 c 0,-8.29034 -6.72614,-15.01647 -15.01647,-15.01647 z"
-     id="path2"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:209.52883911px;line-height:136.00000143%;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29129565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 229.125,163.15234 v 219.94532 h 35.98438 v -76.02735 c 0,-33.00877 11.0934,-44.37304 31.65624,-44.37304 21.10397,0 29.22071,12.44664 29.22071,43.83203 v 76.56836 h 35.98437 v -84.68555 c 0,-49.24259 -22.72596,-68.99414 -58.71093,-68.99414 -15.42213,0 -27.32785,4.32807 -38.15039,14.06836 v -80.33399 z"
+     id="flowRoot112-3"
      inkscape:connector-curvature="0"
-     style="stroke-width:0.31284323" />
+     sodipodi:nodetypes="cccsssccssccc" />
 </svg>

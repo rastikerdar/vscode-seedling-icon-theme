@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ff11-tsx-file.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="970"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.56807381"
+     inkscape:cx="389.52876"
+     inkscape:cy="-43.507563"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.23854065px;line-height:136.00000143%;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.34090233px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 342.55078 192.5918 C 312.67363 192.5918 288.57227 215.94138 288.57227 245.31641 C 288.57227 268.66577 302.38054 286.49172 327.23633 295.78125 C 351.84106 305.0708 353.84954 305.82362 359.37305 310.0918 C 364.89656 314.35996 367.9082 321.38983 367.9082 328.92188 C 367.9082 342.22852 357.61579 351.51953 342.80273 351.51953 C 327.48755 351.51953 319.20173 343.98813 317.69531 328.42188 L 281.79102 328.42188 C 284.80384 363.57146 310.16382 384.66016 342.80273 384.66016 C 376.19485 384.66016 402.05469 358.80138 402.05469 325.1582 C 402.05469 300.05134 391.76185 283.73173 354.10156 269.67188 C 336.52676 263.14411 336.02436 262.89117 333.51367 261.38477 C 326.73482 257.1166 323.21876 251.34332 323.21875 244.56445 C 323.21875 233.51743 331.00268 225.73242 342.30078 225.73242 C 353.84993 225.73242 360.8805 232.76298 361.88477 245.31641 L 397.53711 245.31641 C 395.77963 212.67749 372.42795 192.5918 342.55078 192.5918 z M 174.60742 195.85547 L 174.60742 228.74609 L 209.00391 228.74609 L 209.00391 381.39648 L 243.39844 381.39648 L 243.39844 228.74609 L 277.79492 228.74609 L 277.79492 195.85547 L 174.60742 195.85547 z M 401.45312 269.69922 L 403.54688 272.69141 L 439.14453 323.04688 L 402.44922 374.59766 L 400.35547 377.58789 L 404.04492 377.58789 L 425.58398 377.58789 L 426.7793 377.58789 L 427.37891 376.69141 L 452.40625 339 L 477.5332 376.69141 L 478.13086 377.58789 L 479.32812 377.58789 L 500.66602 377.58789 L 504.45508 377.58789 L 502.36133 374.59766 L 465.66797 323.04688 L 501.26562 272.69141 L 503.35938 269.69922 L 499.57031 269.69922 L 477.93164 269.69922 L 476.73633 269.69922 L 476.13672 270.69727 L 452.10742 307.19141 L 428.47461 270.69727 L 427.87695 269.69922 L 426.67969 269.69922 L 405.14258 269.69922 L 401.45312 269.69922 z "
+     id="flowRoot112" />
+</svg>

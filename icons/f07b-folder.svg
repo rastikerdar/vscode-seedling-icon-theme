@@ -11,7 +11,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="f07b-folder.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -35,19 +35,33 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="1000"
+     inkscape:window-height="970"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="2.0659076"
-     inkscape:cx="218.43358"
-     inkscape:cy="255.15577"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="325.3365"
+     inkscape:cy="229.4548"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="240.88367,261.19121"
+       orientation="0,1"
+       id="guide3727"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="263.83284,345.39318"
+       orientation="1,0"
+       id="guide3729"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <path
-     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.93405879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 229.4714,140.75451 V 366.2924 L 355.1462,253.50411 Z m 31.18007,73.19004 44.09473,39.55956 -44.09473,39.57188 z"
-     id="path89"
-     inkscape:connector-curvature="0" />
+     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.76871294px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 226.7223,195.61072 -0.0216,150.52549 c 0,10.61074 10.22936,12.2569 15.63212,8.52469 L 355.04975,270.79154 242.34633,186.93225 c -6.7845,-4.72453 -15.62403,0.91222 -15.62403,8.67847 z"
+     id="path89-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
 </svg>
