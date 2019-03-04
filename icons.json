@@ -24,7 +24,7 @@
     },
     "_folder": {
       "fontCharacter": "\uf07b",
-      "fontColor": "#afafaf"
+      "fontColor": "#bababa"
     },
     "_folder_light": {
       "fontColor": "#606060"
@@ -40,17 +40,17 @@
     },
     "_f_javascript": {
       "fontCharacter": "\uff01",
-      "fontColor": "#948e50"
+      "fontColor": "#948250"
     },
     "_f_javascript_light": {
-      "fontColor": "#908222"
+      "fontColor": "#a5921a"
     },
     "_f_javascript-react": {
       "fontCharacter": "\uff12",
-      "fontColor": "#948e50"
+      "fontColor": "#948250"
     },
     "_f_javascript-react_light": {
-      "fontColor": "#908222"
+      "fontColor": "#a5921a"
     },
     "_f_typescript": {
       "fontCharacter": "\uff02",
@@ -116,14 +116,14 @@
     },
     "_f_c": {
       "fontCharacter": "\uff03",
-      "fontColor": "#658ed4"
+      "fontColor": "#5d84c7"
     },
     "_f_c_light": {
       "fontColor": "#5f8ad4"
     },
     "_f_cpp": {
       "fontCharacter": "\uff05",
-      "fontColor": "#658ed4"
+      "fontColor": "#5d84c7"
     },
     "_f_cpp_light": {
       "fontColor": "#5f8ad4"
@@ -141,6 +141,20 @@
     },
     "_f_cpp-h_light": {
       "fontColor": "#d06cd2"
+    },
+    "_f_csharp": {
+      "fontCharacter": "\uff16",
+      "fontColor": "#5d84c7"
+    },
+    "_f_csharp_light": {
+      "fontColor": "#5f8ad4"
+    },
+    "_f_crystal": {
+      "fontCharacter": "\uff17",
+      "fontColor": "#58729c"
+    },
+    "_f_crystal_light": {
+      "fontColor": "#80a8ef"
     },
     "_f_rlang": {
       "fontColor": "#814f82"
@@ -181,10 +195,11 @@
       "fontColor": "#85b0ff"
     },
     "_f_java": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uf4e4",
+      "fontColor": "#ea6b50"
     },
     "_f_java_light": {
-      "fontColor": "#85b0ff"
+      "fontColor": "#c12e0f"
     },
     "_f_kotlin": {
       "fontColor": "#506a98"
@@ -261,7 +276,7 @@
     },
     "_f_json": {
       "fontCharacter": "\uff09",
-      "fontColor": "#9e953a"
+      "fontColor": "#9c8954"
     },
     "_f_json_light": {
       "fontColor": "#9a7d09"
@@ -279,13 +294,6 @@
     },
     "_f_eslint_light": {
       "fontColor": "#a083ff"
-    },
-    "_f_babel": {
-      "fontCharacter": "\uf141",
-      "fontColor": "#8E771C"
-    },
-    "_f_babel_light": {
-      "fontColor": "#a58a20"
     },
     "_f_git": {
       "fontCharacter": "\uf126",
@@ -499,40 +507,6 @@
   "folderExpanded": "_fd_open",
   "rootFolder": "_fd_root",
   "rootFolderExpanded": "_fd_root_open",
-  "folderNames": {
-    ".vscode": "_fd_other",
-    ".vscode-test": "_fd_other",
-    "bower_components": "_fd_other",
-    "node_modules": "_fd_other",
-    ".git": "_fd_other",
-    ".github": "_fd_other",
-    "__mocks__": "_fd_other",
-    "__tests__": "_fd_other",
-    "__snapshots__": "_fd_other",
-    "dist": "_fd_other",
-    "out": "_fd_other",
-    "export": "_fd_other",
-    "build": "_fd_other",
-    "release": "_fd_other",
-    "target": "_fd_other"
-  },
-  "folderNamesExpanded": {
-    ".vscode": "_fd_other_open",
-    ".vscode-test": "_fd_other_open",
-    "bower_components": "_fd_other_open",
-    "node_modules": "_fd_other_open",
-    ".git": "_fd_other_open",
-    ".github": "_fd_other_open",
-    "__mocks__": "_fd_other_open",
-    "__tests__": "_fd_other_open",
-    "__snapshots__": "_fd_other_open",
-    "dist": "_fd_other_open",
-    "out": "_fd_other_open",
-    "export": "_fd_other_open",
-    "build": "_fd_other_open",
-    "release": "_fd_other_open",
-    "target": "_fd_other_open"
-  },
   "fileExtensions": {
     "ai": "_f_illustrator",
     "as": "_f_actionscript",
@@ -607,6 +581,7 @@
     "gitkeep": "_f_git",
     "go": "_f_go",
     "gradle": "_f_gradle",
+    "gradlew": "_f_gradle",
     "haml": "_f_haml",
     "has": "_f_haskell",
     "hs": "_f_haskell",
@@ -769,6 +744,7 @@
     "xml": "_f_xml",
     "axml": "_f_xml",
     "xaml": "_f_xml",
+    "dbml": "_f_xml",
     "pex": "_f_xml",
     "yml": "_f_yaml",
     "yaml": "_f_yaml",
@@ -861,6 +837,8 @@
     "log": "_f_log",
     "lock": "_f_lock",
     "toml": "_f_settings",
+    "cr": "_f_crystal",
+    "ecr": "_f_html",
     "seedling": "_f_seedling"
   },
   "fileNames": {
@@ -946,7 +924,8 @@
     "changelog": "_f_changelog",
     "changelog.md": "_f_changelog",
     "changelog.json": "_f_changelog",
-    "requirements.txt": "_f_pip_requirements"
+    "requirements.txt": "_f_pip_requirements",
+    "gradlew": "_f_shell"
   },
   "languageIds": {
     "git": "_f_git",
@@ -1002,40 +981,6 @@
     "folderExpanded": "_fd_open_light",
     "rootFolder": "_fd_root_light",
     "rootFolderExpanded": "_fd_root_open_light",
-    "folderNames": {
-      ".vscode": "_fd_other_light",
-      ".vscode-test": "_fd_other_light",
-      "bower_components": "_fd_other_light",
-      "node_modules": "_fd_other_light",
-      ".git": "_fd_other_light",
-      ".github": "_fd_other_light",
-      "__mocks__": "_fd_other_light",
-      "__tests__": "_fd_other_light",
-      "__snapshots__": "_fd_other_light",
-      "dist": "_fd_other_light",
-      "out": "_fd_other_light",
-      "export": "_fd_other_light",
-      "build": "_fd_other_light",
-      "release": "_fd_other_light",
-      "target": "_fd_other_light"
-    },
-    "folderNamesExpanded": {
-      ".vscode": "_fd_other_open_light",
-      ".vscode-test": "_fd_other_open_light",
-      "bower_components": "_fd_other_open_light",
-      "node_modules": "_fd_other_open_light",
-      ".git": "_fd_other_open_light",
-      ".github": "_fd_other_open_light",
-      "__mocks__": "_fd_other_open_light",
-      "__tests__": "_fd_other_open_light",
-      "__snapshots__": "_fd_other_open_light",
-      "dist": "_fd_other_open_light",
-      "out": "_fd_other_open_light",
-      "export": "_fd_other_open_light",
-      "build": "_fd_other_open_light",
-      "release": "_fd_other_open_light",
-      "target": "_fd_other_open_light"
-    },
     "fileExtensions": {
       "ai": "_f_illustrator_light",
       "as": "_f_actionscript_light",
@@ -1272,6 +1217,7 @@
       "xml": "_f_xml_light",
       "axml": "_f_xml_light",
       "xaml": "_f_xml_light",
+      "dbml": "_f_xml_light",
       "pex": "_f_xml_light",
       "yml": "_f_yaml_light",
       "yaml": "_f_yaml_light",
@@ -1364,6 +1310,8 @@
       "log": "_f_log_light",
       "lock": "_f_lock_light",
       "toml": "_f_settings_light",
+      "cr": "_f_crystal_light",
+      "ecr": "_f_html",
       "seedling": "_f_seedling_light"
     },
     "fileNames": {
@@ -1449,7 +1397,8 @@
       "changelog": "_f_changelog_light",
       "changelog.md": "_f_changelog_light",
       "changelog.json": "_f_changelog_light",
-      "requirements.txt": "_f_pip_requirements_light"
+      "requirements.txt": "_f_pip_requirements_light",
+      "gradlew": "_f_shell_light"
     },
     "languageIds": {
       "git": "_f_git_light",
