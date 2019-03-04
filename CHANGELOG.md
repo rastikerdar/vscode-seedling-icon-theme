@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.3.0
+
+- Added C#, Crystal, Java
+- Improved colors
+- Removed special folders
+
 ## 0.2.0
 
 - Various new icons
