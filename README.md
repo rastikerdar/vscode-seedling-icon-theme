@@ -5,6 +5,7 @@ Small and simple icon theme for VSCode IDE.
 ![VSCode Seedling Icon Theme](https://raw.githubusercontent.com/rastikerdar/vscode-seedling-icon-theme/master/images/preview.png)
 
 Put `"workbench.tree.indent": 14` in your settings for better look.
+
 ![VSCode settings tree indent](https://raw.githubusercontent.com/rastikerdar/vscode-seedling-icon-theme/master/images/settings-tree-indent.png)
 
 ## Development
