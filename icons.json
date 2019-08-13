@@ -1,5 +1,4 @@
 {
-  "hidesExplorerArrows": true,
   "fonts": [
     {
       "id": "fonticons",
@@ -22,22 +21,6 @@
     "_file_light": {
       "fontColor": "#bbbbbb"
     },
-    "_folder": {
-      "fontCharacter": "\uf07b",
-      "fontColor": "#bababa"
-    },
-    "_folder_light": {
-      "fontColor": "#606060"
-    },
-    "_fd_open": {
-      "fontCharacter": "\uf07c"
-    },
-    "_fd_other": {
-      "fontColor": "#6783a0"
-    },
-    "_fd_other_light": {
-      "fontColor": "#82a3c5"
-    },
     "_f_javascript": {
       "fontCharacter": "\uff01",
       "fontColor": "#948250"
@@ -46,11 +29,11 @@
       "fontColor": "#a5921a"
     },
     "_f_javascript-react": {
-      "fontCharacter": "\uff12",
-      "fontColor": "#948250"
+      "fontCharacter": "\uf41b",
+      "fontColor": "#aa955c"
     },
     "_f_javascript-react_light": {
-      "fontColor": "#a5921a"
+      "fontColor": "#978618"
     },
     "_f_typescript": {
       "fontCharacter": "\uff02",
@@ -60,11 +43,11 @@
       "fontColor": "#5c8fd4"
     },
     "_f_typescript-react": {
-      "fontCharacter": "\uff11",
-      "fontColor": "#5584c3"
+      "fontCharacter": "\uf41b",
+      "fontColor": "#65a0ee"
     },
     "_f_typescript-react_light": {
-      "fontColor": "#5c8fd4"
+      "fontColor": "#4c79b4"
     },
     "_f_coffeescript": {
       "fontColor": "#506a98"
@@ -503,10 +486,6 @@
     }
   },
   "file": "_file",
-  "folder": "_folder",
-  "folderExpanded": "_fd_open",
-  "rootFolder": "_fd_root",
-  "rootFolderExpanded": "_fd_root_open",
   "fileExtensions": {
     "ai": "_f_illustrator",
     "as": "_f_actionscript",
@@ -977,10 +956,6 @@
   },
   "light": {
     "file": "_file_light",
-    "folder": "_folder_light",
-    "folderExpanded": "_fd_open_light",
-    "rootFolder": "_fd_root_light",
-    "rootFolderExpanded": "_fd_root_open_light",
     "fileExtensions": {
       "ai": "_f_illustrator_light",
       "as": "_f_actionscript_light",

@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.4.0
+
+- Removed folder icons (fixed tree indent guides issue)
+- New icon for react (tsx, jsx)
+
 ## 0.3.0
 
 - Added C#, Crystal, Java
