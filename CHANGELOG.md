@@ -1,9 +1,15 @@
 # Change Log
 
+## 0.5.0
+
+- Improved colors
+- New icon for Elixir
+- Updated React icon
+
 ## 0.4.0
 
 - Removed folder icons (fixed tree indent guides issue)
-- New icon for react (tsx, jsx)
+- New icon for React (tsx, jsx)
 
 ## 0.3.0
 
