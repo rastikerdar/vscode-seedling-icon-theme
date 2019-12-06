@@ -16,35 +16,35 @@
     "_file": {
       "fontId": "fonticons",
       "fontCharacter": "\uf111",
-      "fontColor": "#4e4e4e"
+      "fontColor": "#565656"
     },
     "_file_light": {
       "fontColor": "#bbbbbb"
     },
     "_f_javascript": {
       "fontCharacter": "\uff01",
-      "fontColor": "#948250"
+      "fontColor": "#a88b3c"
     },
     "_f_javascript_light": {
       "fontColor": "#a5921a"
     },
     "_f_javascript-react": {
       "fontCharacter": "\uf41b",
-      "fontColor": "#aa955c"
+      "fontColor": "#d2b25b"
     },
     "_f_javascript-react_light": {
       "fontColor": "#978618"
     },
     "_f_typescript": {
       "fontCharacter": "\uff02",
-      "fontColor": "#5584c3"
+      "fontColor": "#588ed6"
     },
     "_f_typescript_light": {
       "fontColor": "#5c8fd4"
     },
     "_f_typescript-react": {
       "fontCharacter": "\uf41b",
-      "fontColor": "#65a0ee"
+      "fontColor": "#66a8ff"
     },
     "_f_typescript-react_light": {
       "fontColor": "#4c79b4"
@@ -57,63 +57,63 @@
     },
     "_f_python": {
       "fontCharacter": "\uf3e2",
-      "fontColor": "#3a7ab1"
+      "fontColor": "#428bc9"
     },
     "_f_python_light": {
       "fontColor": "#49a4f3"
     },
     "_f_perl": {
       "fontCharacter": "\uff14",
-      "fontColor": "#3986a7"
+      "fontColor": "#3b98bf"
     },
     "_f_perl_light": {
       "fontColor": "#4aafda"
     },
     "_f_ruby": {
       "fontCharacter": "\uf3a5",
-      "fontColor": "#903c50"
+      "fontColor": "#a43e56"
     },
     "_f_ruby_light": {
       "fontColor": "#d85b79"
     },
     "_f_php": {
       "fontCharacter": "\uff08",
-      "fontColor": "#6f72a5"
+      "fontColor": "#8186d4"
     },
     "_f_php_light": {
-      "fontColor": "#8387c3"
+      "fontColor": "#868ce8"
     },
     "_f_rust": {
       "fontCharacter": "\uff10",
-      "fontColor": "#5f7296"
+      "fontColor": "#627fb7"
     },
     "_f_rust_light": {
       "fontColor": "#728cbb"
     },
     "_f_go": {
       "fontCharacter": "\uff06",
-      "fontColor": "#5993bd"
+      "fontColor": "#5b9ac7"
     },
     "_f_go_light": {
       "fontColor": "#5591ff"
     },
     "_f_c": {
       "fontCharacter": "\uff03",
-      "fontColor": "#5d84c7"
+      "fontColor": "#608dda"
     },
     "_f_c_light": {
       "fontColor": "#5f8ad4"
     },
     "_f_cpp": {
       "fontCharacter": "\uff05",
-      "fontColor": "#5d84c7"
+      "fontColor": "#618fe0"
     },
     "_f_cpp_light": {
       "fontColor": "#5f8ad4"
     },
     "_f_c-h": {
       "fontCharacter": "\uff04",
-      "fontColor": "#9d64a0"
+      "fontColor": "#a95fad"
     },
     "_f_c-h_light": {
       "fontColor": "#d06cd2"
@@ -127,7 +127,7 @@
     },
     "_f_csharp": {
       "fontCharacter": "\uff16",
-      "fontColor": "#5d84c7"
+      "fontColor": "#6391de"
     },
     "_f_csharp_light": {
       "fontColor": "#5f8ad4"
@@ -147,7 +147,7 @@
     },
     "_f_dart": {
       "fontCharacter": "\uff13",
-      "fontColor": "#3683b7"
+      "fontColor": "#3688bf"
     },
     "_f_dart_light": {
       "fontColor": "#64a7d4"
@@ -160,13 +160,13 @@
     },
     "_f_elixir": {
       "fontCharacter": "\uff15",
-      "fontColor": "#875f94"
+      "fontColor": "#8455a4"
     },
     "_f_elixir_light": {
       "fontColor": "#bd76d4"
     },
     "_f_erlang": {
-      "fontColor": "#506a98"
+      "fontColor": "#5a7dbb"
     },
     "_f_erlang_light": {
       "fontColor": "#6ea1ff"
@@ -179,7 +179,7 @@
     },
     "_f_java": {
       "fontCharacter": "\uf4e4",
-      "fontColor": "#ea6b50"
+      "fontColor": "#ff6d4f"
     },
     "_f_java_light": {
       "fontColor": "#c12e0f"
@@ -191,7 +191,7 @@
       "fontColor": "#85b0ff"
     },
     "_f_lua": {
-      "fontColor": "#5858ab"
+      "fontColor": "#6969d4"
     },
     "_f_lua_light": {
       "fontColor": "#8989ff"
@@ -204,21 +204,21 @@
     },
     "_f_xml": {
       "fontCharacter": "\uf121",
-      "fontColor": "#3da084"
+      "fontColor": "#41af90"
     },
     "_f_xml_light": {
       "fontColor": "#339a7d"
     },
     "_f_vue": {
       "fontCharacter": "\uf41f",
-      "fontColor": "#3cad7b"
+      "fontColor": "#3fbb84"
     },
     "_f_vue_light": {
       "fontColor": "#359a6e"
     },
     "_f_html": {
       "fontCharacter": "\uff07",
-      "fontColor": "#4caf5e"
+      "fontColor": "#50bf64"
     },
     "_f_html_light": {
       "fontColor": "#248c35"
@@ -231,56 +231,56 @@
     },
     "_f_css": {
       "fontCharacter": "\uf292",
-      "fontColor": "#8467b1"
+      "fontColor": "#9468d8"
     },
     "_f_css_light": {
       "fontColor": "#ab75ff"
     },
     "_f_sass": {
       "fontCharacter": "\uf292",
-      "fontColor": "#945146"
+      "fontColor": "#a05549"
     },
     "_f_sass_light": {
       "fontColor": "#d88476"
     },
     "_f_less": {
       "fontCharacter": "\uf292",
-      "fontColor": "#8467b1"
+      "fontColor": "#9468d8"
     },
     "_f_less_light": {
       "fontColor": "#ab75ff"
     },
     "_f_database": {
       "fontCharacter": "\uf1c0",
-      "fontColor": "#7b3b47"
+      "fontColor": "#833e4b"
     },
     "_f_database_light": {
       "fontColor": "#dc7183"
     },
     "_f_json": {
       "fontCharacter": "\uff09",
-      "fontColor": "#9c8954"
+      "fontColor": "#ad8f3d"
     },
     "_f_json_light": {
       "fontColor": "#9a7d09"
     },
     "_f_lock": {
       "fontCharacter": "\uf023",
-      "fontColor": "#505050"
+      "fontColor": "#606060"
     },
     "_f_lock_light": {
       "fontColor": "#a9a9a9"
     },
     "_f_eslint": {
       "fontCharacter": "\uf560",
-      "fontColor": "#7767a9"
+      "fontColor": "#7f6bbb"
     },
     "_f_eslint_light": {
       "fontColor": "#a083ff"
     },
     "_f_git": {
       "fontCharacter": "\uf126",
-      "fontColor": "#707070"
+      "fontColor": "#757575"
     },
     "_f_git_light": {
       "fontColor": "#9a9a9a"
@@ -290,24 +290,25 @@
     },
     "_f_settings": {
       "fontCharacter": "\uf0ad",
-      "fontColor": "#883b61"
+      "fontColor": "#98406b"
     },
     "_f_settings_light": {
       "fontColor": "#d4679d"
     },
     "_f_apache": {
-      "fontCharacter": "\uf141"
+      "fontCharacter": "\uf141",
+      "fontColor": "#808080"
     },
     "_f_yaml": {
       "fontCharacter": "\uf12a",
-      "fontColor": "#3e8480"
+      "fontColor": "#449a95"
     },
     "_f_yaml_light": {
       "fontColor": "#47b1ab"
     },
     "_f_shell": {
       "fontCharacter": "\uf120",
-      "fontColor": "#bd4562"
+      "fontColor": "#c94464"
     },
     "_f_shell_light": {
       "fontColor": "#b72d4f"
@@ -317,11 +318,11 @@
       "fontColor": "#bd4562"
     },
     "_f_powershell_light": {
-      "fontColor": "#b72d4f"
+      "fontColor": "#c94464"
     },
     "_f_binary": {
       "fontCharacter": "\uf013",
-      "fontColor": "#505050"
+      "fontColor": "#585858"
     },
     "_f_binary_light": {
       "fontColor": "#b7b7b7"
@@ -335,28 +336,28 @@
     },
     "_f_markdown": {
       "fontCharacter": "\uf059",
-      "fontColor": "#277b76"
+      "fontColor": "#27908a"
     },
     "_f_markdown_light": {
       "fontColor": "#3fb5af"
     },
     "_f_rst": {
       "fontCharacter": "\uf059",
-      "fontColor": "#2f736f"
+      "fontColor": "#27908a"
     },
     "_f_rst_light": {
       "fontColor": "#3fb5af"
     },
     "_f_license": {
       "fontCharacter": "\uf559",
-      "fontColor": "#656565"
+      "fontColor": "#757575"
     },
     "_f_license_light": {
       "fontColor": "#929292"
     },
     "_f_changelog": {
       "fontCharacter": "\uf1da",
-      "fontColor": "#777777"
+      "fontColor": "#818181"
     },
     "_f_changelog_light": {
       "fontColor": "#929292"
@@ -398,14 +399,14 @@
     },
     "_f_audio": {
       "fontCharacter": "\uf001",
-      "fontColor": "#588053"
+      "fontColor": "#558a4e"
     },
     "_f_audio_light": {
       "fontColor": "#78ad72"
     },
     "_f_image": {
       "fontCharacter": "\uf03e",
-      "fontColor": "#9e4565"
+      "fontColor": "#a8486b"
     },
     "_f_image_light": {
       "fontColor": "#bd6786"
@@ -419,21 +420,21 @@
     },
     "_f_video": {
       "fontCharacter": "\uf03d",
-      "fontColor": "#844159"
+      "fontColor": "#8c435d"
     },
     "_f_video_light": {
       "fontColor": "#ea82a8"
     },
     "_f_server": {
       "fontCharacter": "\uf0ac",
-      "fontColor": "#50708c"
+      "fontColor": "#5c80a0"
     },
     "_f_server_light": {
       "fontColor": "#7db2e0"
     },
     "_f_font": {
       "fontCharacter": "\uf031",
-      "fontColor": "#6f8794"
+      "fontColor": "#728c9a"
     },
     "_f_font_light": {
       "fontColor": "#689ab5"
@@ -453,7 +454,7 @@
       "fontColor": "#d4679d"
     },
     "_f_package_json": {
-      "fontColor": "#a55527"
+      "fontColor": "#cb662c"
     },
     "_f_package_json_light": {
       "fontColor": "#ca5613"
@@ -479,7 +480,7 @@
     },
     "_f_seedling": {
       "fontCharacter": "\uf4d8",
-      "fontColor": "#42773c"
+      "fontColor": "#4b8c43"
     },
     "_f_seedling_light": {
       "fontColor": "#60b557"
