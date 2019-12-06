@@ -1,6 +1,6 @@
 # VSCode Seedling Icon Theme
 
-Small and simple icon theme for VSCode IDE.
+Small and simple icon theme for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=rastikerdar.vscode-seedling-icon-theme).
 
 ![VSCode Seedling Icon Theme](https://raw.githubusercontent.com/rastikerdar/vscode-seedling-icon-theme/master/images/preview.png)
 
