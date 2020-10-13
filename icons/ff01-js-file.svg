@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 448 512"
-   version="1.1"
-   id="svg4"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="ff01-js-file.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   id="svg4"
+   version="1.1"
+   viewBox="0 0 448 512">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -27,28 +27,31 @@
   <defs
      id="defs8" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="970"
-     id="namedview6"
-     showgrid="false"
-     inkscape:zoom="3.4527392"
-     inkscape:cx="296.70745"
-     inkscape:cy="193.13707"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:window-y="22"
+     inkscape:window-x="0"
+     inkscape:cy="272.19966"
+     inkscape:cx="287.3688"
+     inkscape:zoom="1.2207277"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="975"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
   <path
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.23854065px;line-height:136.00000143%;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27750635px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 340.63052,198.13786 c -28.46461,0 -51.42781,22.24653 -51.42781,50.23275 0,22.24545 13.156,39.22794 36.83664,48.07826 23.44145,8.85034 25.35489,9.5675 30.61726,13.63387 5.26236,4.06637 8.13193,10.76475 8.13193,17.94071 0,12.67752 -9.80547,21.52802 -23.91818,21.52802 -14.59109,0 -22.48506,-7.17533 -23.92024,-22.00563 h -34.20665 c 2.87038,33.48776 27.03111,53.58019 58.12689,53.58019 31.81339,0 56.45006,-24.6373 56.45006,-56.68988 0,-23.91985 -9.80627,-39.46765 -45.68603,-52.86275 -16.74391,-6.21916 -17.2235,-6.45897 -19.61549,-7.89416 -6.45835,-4.06638 -9.8067,-9.56773 -9.80671,-16.0261 0,-10.52473 7.41454,-17.9407 18.17848,-17.9407 11.00312,0 17.70139,6.69824 18.65817,18.65817 h 33.96681 c -1.67439,-31.0958 -23.92052,-50.23275 -52.38513,-50.23275 z m -109.90512,3.10969 v 125.10113 c 0,15.5479 -5.26152,23.20279 -15.78623,23.20279 -8.13277,0 -13.39572,-4.54576 -15.5485,-13.39608 h -32.76964 c 3.10958,29.89979 23.44135,44.97064 49.03558,44.97064 29.6606,0 47.84052,-20.57147 47.84052,-53.82005 V 201.24755 Z"
+     inkscape:connector-curvature="0"
      id="flowRoot112"
-     inkscape:connector-curvature="0" />
+     d="m 345.16923,190.01117 c -29.72876,0 -53.71177,23.23452 -53.71177,52.46364 0,23.23339 13.74027,40.97009 38.47259,50.21346 24.48251,9.2434 26.48093,9.9924 31.97701,14.23936 5.49606,4.24697 8.49307,11.24283 8.49307,18.73748 0,13.24054 -10.24094,22.4841 -24.98041,22.4841 -15.23909,0 -23.48364,-7.49399 -24.98256,-22.98292 h -35.7258 c 2.99786,34.97498 28.23158,55.95974 60.70836,55.95974 33.22625,0 58.95706,-25.73147 58.95706,-59.20754 0,-24.98215 -10.24177,-41.22044 -47.71498,-55.21043 -17.48753,-6.49536 -17.98842,-6.74582 -20.48664,-8.24475 -6.74518,-4.24698 -10.24223,-9.99265 -10.24224,-16.73784 0,-10.99214 7.74383,-18.73746 18.9858,-18.73746 11.49178,0 18.48753,6.99571 19.48681,19.4868 h 35.4753 c -1.74874,-32.4768 -24.98285,-52.46364 -54.7116,-52.46364 z m -114.78611,3.2478 v 130.657 c 0,16.23839 -5.4952,24.23324 -16.48733,24.23324 -8.49394,0 -13.99063,-4.74764 -16.23902,-13.99101 H 163.4318 c 3.24768,31.22767 24.48241,46.96783 51.2133,46.96783 30.97786,0 49.96516,-21.48507 49.96516,-56.21025 V 193.25897 Z"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.239px;line-height:136%;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.33424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>
