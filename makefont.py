@@ -11,19 +11,19 @@ if __name__ == '__main__':
     font.familyname = FONTNAME
     font.copyright = 'Symbols are imported from FontAwesome SVGs'
     font.fullname = FONTNAME
-    
+
     try:
         for svg_file in os.listdir(DIR):
             if svg_file.find('.svg') == -1:  # is not a svg file
                 continue
             g = font.createChar(int(svg_file.split('-')[0], base=16))
-            print svg_file
+            print(svg_file)
             g.importOutlines(
                 os.path.join(DIR, svg_file), ('removeoverlap', 'correctdir'))
             g.removeOverlap()
     except ValueError:
-        print'"%s" is not a valid file name.' % svg_file
-        print 'File name should be in format "hexnumber-name.svg". e.g. "ff5a-search.svg"'
+        print('"%s" is not a valid file name.' % svg_file)
+        print('File name should be in format "hexnumber-name.svg". e.g. "ff5a-search.svg"')
 
     except Exception as e:
         raise e
