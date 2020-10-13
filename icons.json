@@ -49,6 +49,62 @@
     "_f_typescript-react_light": {
       "fontColor": "#4c79b4"
     },
+    "_f_javascript-test": {
+      "fontCharacter": "\uff01",
+      "fontColor": "#a35454"
+    },
+    "_f_javascript-test_light": {
+      "fontColor": "#a5921a"
+    },
+    "_f_javascript-react-test": {
+      "fontCharacter": "\uf41b",
+      "fontColor": "#af5959"
+    },
+    "_f_javascript-react-test_light": {
+      "fontColor": "#978618"
+    },
+    "_f_typescript-test": {
+      "fontCharacter": "\uff02",
+      "fontColor": "#a35454"
+    },
+    "_f_typescript-test_light": {
+      "fontColor": "#5c8fd4"
+    },
+    "_f_typescript-react-test": {
+      "fontCharacter": "\uf41b",
+      "fontColor": "#af5959"
+    },
+    "_f_typescript-react-test_light": {
+      "fontColor": "#4c79b4"
+    },
+    "_f_javascript-story": {
+      "fontCharacter": "\uff01",
+      "fontColor": "#6c8a1d"
+    },
+    "_f_javascript-story_light": {
+      "fontColor": "#a5921a"
+    },
+    "_f_javascript-react-story": {
+      "fontCharacter": "\uf41b",
+      "fontColor": "#779920"
+    },
+    "_f_javascript-react-story_light": {
+      "fontColor": "#978618"
+    },
+    "_f_typescript-story": {
+      "fontCharacter": "\uff02",
+      "fontColor": "#6c8a1d"
+    },
+    "_f_typescript-story_light": {
+      "fontColor": "#5c8fd4"
+    },
+    "_f_typescript-react-story": {
+      "fontCharacter": "\uf41b",
+      "fontColor": "#779920"
+    },
+    "_f_typescript-react-story_light": {
+      "fontColor": "#4c79b4"
+    },
     "_f_coffeescript": {
       "fontColor": "#506a98"
     },
@@ -406,14 +462,14 @@
     },
     "_f_image": {
       "fontCharacter": "\uf03e",
-      "fontColor": "#a8486b"
+      "fontColor": "#9e4565"
     },
     "_f_image_light": {
       "fontColor": "#bd6786"
     },
     "_f_svg": {
       "fontCharacter": "\uf03e",
-      "fontColor": "#9e4565"
+      "fontColor": "#8a4a99"
     },
     "_f_svg_light": {
       "fontColor": "#bd6786"
@@ -596,6 +652,7 @@
     "liquid": "_f_liquid",
     "md": "_f_markdown",
     "markdown": "_f_markdown",
+    "mdx": "_f_markdown",
     "mjml": "_f_mjml",
     "fig": "_f_matlab",
     "mat": "_f_matlab",
@@ -704,12 +761,18 @@
     "stylus": "_f_stylus",
     "svg": "_f_svg",
     "swift": "_f_swift",
-    "test.js": "_f_tests",
-    "test.ts": "_f_tests",
-    "test.tsx": "_f_tests",
-    "spec.js": "_f_tests",
-    "spec.ts": "_f_tests",
-    "spec.tsx": "_f_tests",
+    "test.js": "_f_javascript-test",
+    "test.jsx": "_f_javascript-react-test",
+    "test.ts": "_f_typescript-test",
+    "test.tsx": "_f_typescript-react-test",
+    "spec.js": "_f_javascript-test",
+    "spec.jsx": "_f_javascript-react-test",
+    "spec.ts": "_f_typescript-test",
+    "spec.tsx": "_f_typescript-react-test",
+    "story.js": "_f_javascript-story",
+    "story.jsx": "_f_javascript-react-story",
+    "story.ts": "_f_typescript-story",
+    "story.tsx": "_f_typescript-react-story",
     "tcl": "_f_tcl",
     "texi": "_f_tex",
     "tex": "_f_tex",
@@ -1065,6 +1128,7 @@
       "liquid": "_f_liquid_light",
       "md": "_f_markdown_light",
       "markdown": "_f_markdown_light",
+      "mdx": "_f_markdown_light",
       "mjml": "_f_mjml_light",
       "fig": "_f_matlab_light",
       "mat": "_f_matlab_light",
