@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.6.0
+
+- Added new types: svg, mdx, js/ts/jsx/tsx test and story
+- Removed light version
+- Updated js icon
+
 ## 0.5.0
 
 - Improved colors
