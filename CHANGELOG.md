@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.7.0
+
+- Added new icons for Julia, Lua, Erlang
+
 ## 0.6.0
 
 - Added new types: svg, mdx, js/ts/jsx/tsx test and story

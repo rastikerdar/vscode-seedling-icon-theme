@@ -132,7 +132,8 @@
       "fontColor": "#8455a4"
     },
     "_f_erlang": {
-      "fontColor": "#5a7dbb"
+      "fontCharacter": "\uff20",
+      "fontColor": "#ad4260"
     },
     "_f_elm": {
       "fontColor": "#506a98"
@@ -145,7 +146,8 @@
       "fontColor": "#506a98"
     },
     "_f_lua": {
-      "fontColor": "#6969d4"
+      "fontCharacter": "\uff19",
+      "fontColor": "#6a6ad4"
     },
     "_f_tcl": {
       "fontColor": "#776b50"
@@ -308,6 +310,10 @@
     },
     "_f_objective-c": {
       "fontColor": "#82840e"
+    },
+    "_f_julia": {
+      "fontCharacter": "\uff18",
+      "fontColor": "#9558B2"
     },
     "_f_seedling": {
       "fontCharacter": "\uf4d8",
