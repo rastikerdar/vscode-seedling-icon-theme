@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.8.0
+
+- Added new icons for Go and Graphql
+- Moved icons higher a little bit
+
 ## 0.7.0
 
 - Added new icons for Julia, Lua, Erlang
