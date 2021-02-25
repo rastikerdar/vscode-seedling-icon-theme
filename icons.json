@@ -91,7 +91,7 @@
     },
     "_f_go": {
       "fontCharacter": "\uff06",
-      "fontColor": "#5b9ac7"
+      "fontColor": "#4b7b9e"
     },
     "_f_c": {
       "fontCharacter": "\uff03",
@@ -314,6 +314,10 @@
     "_f_julia": {
       "fontCharacter": "\uff18",
       "fontColor": "#9558B2"
+    },
+    "_f_graphql": {
+      "fontCharacter": "\uff21",
+      "fontColor": "#ab4a8b"
     },
     "_f_seedling": {
       "fontCharacter": "\uf4d8",
@@ -635,6 +639,7 @@
     "json5": "_f_json5",
     "gql": "_f_graphql",
     "graphql": "_f_graphql",
+    "graphqls": "_f_graphql",
     "prettierrc": "_f_prettier",
     "prettierignore": "_f_prettier",
     "m": "_f_matlab-alt",
