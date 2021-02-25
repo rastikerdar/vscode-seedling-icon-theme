@@ -1,5 +1,6 @@
-import fontforge
 import os
+import fontforge
+import psMat;
 
 FONTNAME = 'vscode-adjusted-icons'
 DIR = './icons'
@@ -21,6 +22,8 @@ if __name__ == '__main__':
             g.importOutlines(
                 os.path.join(DIR, svg_file), ('removeoverlap', 'correctdir'))
             g.removeOverlap()
+            mat = psMat.translate( 0,30 )
+            g.transform(mat)
     except ValueError:
         print('"%s" is not a valid file name.' % svg_file)
         print('File name should be in format "hexnumber-name.svg". e.g. "ff5a-search.svg"')
