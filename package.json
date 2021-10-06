@@ -1,8 +1,8 @@
 {
     "name": "vscode-seedling-icon-theme",
     "displayName": "Seedling Icon Theme",
-    "description": "Small and simple icon theme for VSCode IDE.",
-    "version": "0.8.0",
+    "description": "Simple icon theme for VSCode IDE.",
+    "version": "0.9.0",
     "publisher": "rastikerdar",
     "engines": {
         "vscode": "^1.20.0"
@@ -13,6 +13,11 @@
                 "id": "vscode-seedling-icon-theme",
                 "label": "Seedling Icon Theme",
                 "path": "./icons.json"
+            },
+            {
+                "id": "vscode-seedling-icon-theme-plus",
+                "label": "Seedling Icon Theme+ (with folder icon)",
+                "path": "./icons-plus.json"
             }
         ]
     },

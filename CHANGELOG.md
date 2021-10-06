@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.9.0
+
+- Added folder icons (Seedling+)
+- Made all icons 10% larger
+- Moved all icons slightly to the left
+- Added new icons for Kotlin, dart, Sass, ESLint and Handlebars
+- Updated colors for some file types
+
 ## 0.8.0
 
 - Added new icons for Go and Graphql
