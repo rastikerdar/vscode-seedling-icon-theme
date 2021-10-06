@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 448 512"
+   viewBox="0 0 512 512"
    version="1.1"
    id="svg4"
-   sodipodi:docname="ff13-dart-file.svg"
+   sodipodi:docname="ff25-kotlin-file.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata10">
@@ -20,12 +20,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8" />
+     id="defs8">
+    <radialGradient
+       id="a"
+       cx="22.431999"
+       cy="3.493"
+       r="21.679001"
+       gradientTransform="matrix(11.379946,0,0,11.379946,149.08202,107.1606)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#e44857"
+         offset=".003"
+         id="stop2" />
+      <stop
+         stop-color="#c711e1"
+         offset=".469"
+         id="stop4" />
+      <stop
+         stop-color="#7f52ff"
+         offset="1"
+         id="stop6" />
+    </radialGradient>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -35,20 +55,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="975"
+     inkscape:window-width="857"
+     inkscape:window-height="480"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="1.0201373"
-     inkscape:cx="589.79802"
-     inkscape:cy="329.51413"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.47784975"
+     inkscape:cx="356.99337"
+     inkscape:cy="197.57277"
+     inkscape:window-x="190"
+     inkscape:window-y="140"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0" />
   <path
-     id="path2"
-     style="stroke-width:5.88578"
-     d="m 305.07459,160.90147 c -4.31936,0 -8.57471,1.11175 -12.37807,3.22095 l -69.57397,38.60434 -0.66094,1.45963 146.77046,147.91793 h 39.42223 v -95.60143 l -85.11024,-87.7243 c -4.89916,-5.04892 -11.54687,-7.87712 -18.46947,-7.87712 z m -83.73778,45.76996 -31.92527,70.51043 c -4.12804,9.10602 -2.27233,19.90142 4.62128,27.00579 l 29.42107,30.32961 c -1.37805,-3.06794 -2.11708,-6.42281 -2.11708,-9.85642 z m 19.56463,145.82875 34.40158,35.4549 h 92.76588 v -35.4549 z" />
+     d="M 417.92693,373.43848 H 196.08825 V 151.71853 H 417.92693 L 304.71947,260.93258 Z"
+     fill="url(#a)"
+     stroke-width="11.719"
+     id="path21"
+     style="fill:#000000" />
 </svg>

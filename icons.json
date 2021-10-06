@@ -12,6 +12,7 @@
       "style": "normal"
     }
   ],
+  "hidesExplorerArrows": false,
   "iconDefinitions": {
     "_file": {
       "fontId": "fonticons",
@@ -36,19 +37,19 @@
     },
     "_f_javascript-test": {
       "fontCharacter": "\uff01",
-      "fontColor": "#a35454"
+      "fontColor": "#964d6f"
     },
     "_f_javascript-react-test": {
       "fontCharacter": "\uf41b",
-      "fontColor": "#af5959"
+      "fontColor": "#a9567c"
     },
     "_f_typescript-test": {
       "fontCharacter": "\uff02",
-      "fontColor": "#a35454"
+      "fontColor": "#964d6f"
     },
     "_f_typescript-react-test": {
       "fontCharacter": "\uf41b",
-      "fontColor": "#af5959"
+      "fontColor": "#a9567c"
     },
     "_f_javascript-story": {
       "fontCharacter": "\uff01",
@@ -122,7 +123,7 @@
     },
     "_f_dart": {
       "fontCharacter": "\uff13",
-      "fontColor": "#3688bf"
+      "fontColor": "#23759a"
     },
     "_f_haskell": {
       "fontColor": "#506a98"
@@ -143,7 +144,8 @@
       "fontColor": "#ff6d4f"
     },
     "_f_kotlin": {
-      "fontColor": "#506a98"
+      "fontCharacter": "\uff25",
+      "fontColor": "#795fc3"
     },
     "_f_lua": {
       "fontCharacter": "\uff19",
@@ -169,11 +171,11 @@
     },
     "_f_css": {
       "fontCharacter": "\uf292",
-      "fontColor": "#9468d8"
+      "fontColor": "#3e85c1"
     },
     "_f_sass": {
-      "fontCharacter": "\uf292",
-      "fontColor": "#a05549"
+      "fontCharacter": "\uff22",
+      "fontColor": "#d86ba1"
     },
     "_f_less": {
       "fontCharacter": "\uf292",
@@ -192,8 +194,8 @@
       "fontColor": "#606060"
     },
     "_f_eslint": {
-      "fontCharacter": "\uf560",
-      "fontColor": "#7f6bbb"
+      "fontCharacter": "\uff23",
+      "fontColor": "#7163ad"
     },
     "_f_git": {
       "fontCharacter": "\uf126",
@@ -318,6 +320,10 @@
     "_f_graphql": {
       "fontCharacter": "\uff21",
       "fontColor": "#ab4a8b"
+    },
+    "_f_handlebars": {
+      "fontCharacter": "\uff24",
+      "fontColor": "#888787"
     },
     "_f_seedling": {
       "fontCharacter": "\uf4d8",
