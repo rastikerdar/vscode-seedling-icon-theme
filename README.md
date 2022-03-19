@@ -21,6 +21,10 @@ But to change/add colors or types/names you only need to update `icons.json` or 
 - [Font Awesome](http://fontawesome.com/)
 - `icons.json` from [vscode-icons](https://github.com/vscode-icons/vscode-icons)
 
+## Todo
+
+- Write a python script for generating `images/preview.png`
+
 ## License
 
 MIT
