@@ -223,8 +223,8 @@
       "fontColor": "#808080"
     },
     "_f_yaml": {
-      "fontCharacter": "\uf12a",
-      "fontColor": "#449a95"
+      "fontCharacter": "\uff31",
+      "fontColor": "#a476ca"
     },
     "_f_shell": {
       "fontCharacter": "\uf120",
@@ -243,10 +243,10 @@
       "fontColor": "#606060"
     },
     "_f_markdown": {
-      "fontCharacter": "\uf059",
+      "fontCharacter": "\uff28",
       "fontColor": "#27908a"
     },
-    "_f_rst": {
+    "_f_doc": {
       "fontCharacter": "\uf059",
       "fontColor": "#27908a"
     },
@@ -334,6 +334,22 @@
     "_f_handlebars": {
       "fontCharacter": "\uff24",
       "fontColor": "#888787"
+    },
+    "_f_jupyter": {
+      "fontCharacter": "\uff26",
+      "fontColor": "#905d3d"
+    },
+    "_f_jenkinsfile": {
+      "fontCharacter": "\uff27",
+      "fontColor": "#d25653"
+    },
+    "_f_tex": {
+      "fontCharacter": "\uff29",
+      "fontColor": "#008080"
+    },
+    "_f_toml": {
+      "fontCharacter": "\uff30",
+      "fontColor": "#af5838"
     },
     "_f_seedling": {
       "fontCharacter": "\uf4d8",
@@ -674,13 +690,13 @@
     "tf": "_f_terraform",
     "tfvars": "_f_terraform",
     "vb": "_f_visualbasic",
-    "rst": "_f_rst",
+    "rst": "_f_doc",
     "re": "_f_reason",
     "rei": "_f_reason",
     "ipynb": "_f_jupyter",
     "log": "_f_log",
     "lock": "_f_lock",
-    "toml": "_f_settings",
+    "toml": "_f_toml",
     "cr": "_f_crystal",
     "ecr": "_f_html",
     "seedling": "_f_seedling"
@@ -759,10 +775,10 @@
     "tslint.json": "_f_tslint",
     "bsconfig.json": "_f_bucklescript",
     "configure": "_f_shell",
-    "contributing": "_f_markdown",
-    "install": "_f_markdown",
-    "manifesto": "_f_markdown",
-    "readme": "_f_markdown",
+    "contributing": "_f_doc",
+    "install": "_f_doc",
+    "manifesto": "_f_doc",
+    "readme": "_f_doc",
     "history": "_f_changelog",
     "history.md": "_f_changelog",
     "changelog": "_f_changelog",

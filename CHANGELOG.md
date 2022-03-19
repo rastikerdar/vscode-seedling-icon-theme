@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.10.0
+
+- Added new icons for jupyter, yaml, jenkinsfile, markdown, latex and toml (#5 #6 #7 #8 #9)
+
 ## 0.9.0
 
 - Added folder icons (Seedling+)

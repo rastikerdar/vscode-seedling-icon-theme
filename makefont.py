@@ -10,7 +10,7 @@ if __name__ == '__main__':
     font = fontforge.font()
     font.fontname = FONTNAME
     font.familyname = FONTNAME
-    font.copyright = 'Symbols are imported from FontAwesome SVGs'
+    font.copyright = 'Some of symbols are imported from FontAwesome SVGs'
     font.fullname = FONTNAME
 
     try:
